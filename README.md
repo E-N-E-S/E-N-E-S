@@ -1,7 +1,6 @@
 ## Hey, I'm Enes 👋
 
 - I'm currently learning C++, Python, Java and Cyber Security.
-- Pronouns: He/His
 
 ### **Languages and Tools:**  
 
